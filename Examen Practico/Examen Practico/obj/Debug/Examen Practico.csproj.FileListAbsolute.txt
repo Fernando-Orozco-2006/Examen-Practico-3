@@ -1,0 +1,7 @@
+C:\Users\fqop0\OneDrive\Desktop\Estructura de Datos\Examen Practico\Examen Practico\Examen Practico\bin\Debug\Examen Practico.exe.config
+C:\Users\fqop0\OneDrive\Desktop\Estructura de Datos\Examen Practico\Examen Practico\Examen Practico\bin\Debug\Examen Practico.exe
+C:\Users\fqop0\OneDrive\Desktop\Estructura de Datos\Examen Practico\Examen Practico\Examen Practico\bin\Debug\Examen Practico.pdb
+C:\Users\fqop0\OneDrive\Desktop\Estructura de Datos\Examen Practico\Examen Practico\Examen Practico\obj\Debug\Examen Practico.csproj.AssemblyReference.cache
+C:\Users\fqop0\OneDrive\Desktop\Estructura de Datos\Examen Practico\Examen Practico\Examen Practico\obj\Debug\Examen Practico.csproj.CoreCompileInputs.cache
+C:\Users\fqop0\OneDrive\Desktop\Estructura de Datos\Examen Practico\Examen Practico\Examen Practico\obj\Debug\Examen Practico.exe
+C:\Users\fqop0\OneDrive\Desktop\Estructura de Datos\Examen Practico\Examen Practico\Examen Practico\obj\Debug\Examen Practico.pdb
